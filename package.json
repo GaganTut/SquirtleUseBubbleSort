@@ -1,0 +1,25 @@
+{
+  "name": "SquirtleUseBubbleSort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:dev": "npm test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaganTut/SquirtleUseBubbleSort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaganTut/SquirtleUseBubbleSort/issues"
+  },
+  "homepage": "https://github.com/GaganTut/SquirtleUseBubbleSort#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
